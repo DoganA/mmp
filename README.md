@@ -3,5 +3,6 @@ Multimedia Processing im Medieninformatik Masterstudiengang im Wintersemester 20
 
 ## ToDo:
 * Evtl. Vokale neu Aufnehmen
-* Projektindex erstellen
-* Korrekturen von Rückmeldung vom Dozenten
+* Projektindex erstellen, die als Startseite dargestellt werden soll
+* Librarys aufnehmen, die zur Formatierung dienen sollen
+* Korrekturen von Rückmeldung vom Dozenten aus dem .Semester
